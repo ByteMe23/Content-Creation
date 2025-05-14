@@ -2,6 +2,10 @@
 
 Content Creation is a next-generation web application that empowers users to create high-quality, professional-looking videos effortlessly. Powered by cutting-edge AI technologies and integrated with video processing tools, VidAI streamlines the entire video production workflow—from script generation to final export.
 
+# AI-Powered Content Creation
+
+![Screenshot (685)](https://github.com/user-attachments/assets/c03df461-c2d9-491c-ad63-81292cf3230b)
+
 Built using **React**, **Next.js**, and **FFmpeg.js**, this platform is ideal for content creators, educators, marketers, and social media managers looking to automate and simplify video creation.
 
 ## Key Features
@@ -92,6 +96,36 @@ AI Services:
 - Educators: Create educational content with clear narration and visuals.
 - Marketers: Develop promotional videos with minimal effort.
 
+## Design Decisions
+
+Next.js for Server-Side Rendering
+- Enables better SEO for public-facing pages
+- Simplifies API routes integration (server + client in one codebase)
+
+FFmpeg.js for In-Browser Processing
+- Eliminates the need for server-side video rendering
+- Improves responsiveness and reduces hosting costs
+
+Tailwind CSS for UI Styling
+- Rapid development of responsive layouts
+- Utility-first approach ensures consistent design
+
+Modular AI Integration
+- OpenAI for content and script generation
+- ElevenLabs for lifelike narration
+- DeepInfra for story-based image generation
+- Easily extendable to other services in future
+
+## Future Enhancements
+
+- Timeline-based visual editor
+- Multi-voice dialogue support
+- Drag-and-drop interface for manual customization
+- In-app publishing to social platforms
+- Templates for various content types (e.g., tutorials, testimonials)
+
+
+## Thank you
 
 
 
