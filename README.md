@@ -1,6 +1,6 @@
 # Content-Creation
 
-Content Creation is a next-generation web application that empowers users to create high-quality, professional-looking videos effortlessly. Powered by cutting-edge AI technologies and integrated with video processing tools, VidAI streamlines the entire video production workflow—from script generation to final export.
+Content Creation is a next-generation web application that empowers users to create high-quality, professional-looking videos effortlessly. Powered by cutting-edge AI technologies and integrated with video processing tools, VidAI streamlines the entire video production workflow—from script generation to final export. This is fully responsive, ensuring a seamless and optimized experience across different devices.
 
 # AI-Powered Content Creation
 
